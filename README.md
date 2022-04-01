@@ -22,6 +22,7 @@ A partir de este momento ya podremos ejecutar scripts en PowerShell
 
 ## Ejercicio 1
 
+Código y comentarios del script
 ~~~
 <#Se declara una variable de tipo entero que contendrá el valor 1 #>
 $number = 1

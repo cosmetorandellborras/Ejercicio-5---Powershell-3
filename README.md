@@ -22,3 +22,30 @@ A partir de este momento ya podremos ejecutar scripts en PowerShell
 
 ## Ejercicio 1
 
+~~~
+<#Se declara una variable de tipo entero que contendrá el valor 1 #>
+$number = 1
+
+<#Se escribe por consola el string "El numero es: " seguido de la variable#>
+Write-Host "The number is: " $number
+
+<#Se declara una variable de tipo entero que contendrá el valor 2 #>
+$number = 2
+
+<#Se escribe por consola el string "El numero es: " seguido de la variable#>
+Write-Host "The number is: " $number
+
+<#Se declara una variable de tipo entero que contendrá el valor 3 #>
+$number = 3
+
+<#Se escribe por consola el string "El numero es: " seguido de la variable#>
+Write-Host "The number is: " $number
+
+<#Se declara una variable de tipo entero que contendrá el valor 4 #>
+$number = 4
+
+<#Se escribe por consola el string "El numero es: " seguido de la variable#>
+Write-Host "The number is: " $number
+~~~
+
+![Ex1](https://github.com/cosmetorandellborras/Ejercicio-5---Powershell-3/blob/main/Ex1.png)

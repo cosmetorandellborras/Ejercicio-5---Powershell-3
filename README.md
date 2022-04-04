@@ -101,3 +101,5 @@ foreach ($character in $stringOfCharacters.ToCharArray()) {
 
 $stringOfCharacters.ToCharArray() | ForEach-Object { Write-Host "$_" }
 ~~~
+
+![Ex2](https://github.com/cosmetorandellborras/Ejercicio-5---Powershell-3/blob/main/Ex2.png)

@@ -288,3 +288,4 @@ switch ($favouriteColour) {
 }
 ~~~
 
+![Ex3](https://github.com/cosmetorandellborras/Ejercicio-5---Powershell-3/blob/main/Ex3.png)
